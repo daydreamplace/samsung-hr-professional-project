@@ -7,7 +7,7 @@ const categories = [
   { id: 2, label: "입과 안내", url: "https://rtaydwfj.gensparkspace.com" },
   { id: 3, label: "콘텐츠 생성", url: "https://aqqnapzn.gensparkspace.com" },
   { id: 4, label: "교육생 면담", url: "https://xjexgaxm.gensparkspace.com" },
-  { id: 5, label: "교육생 결과보고", url: "https://jrjswerl.gensparkspace.com" },
+  { id: 5, label: "교육생 결과보고", url: "https://klkmglpy.gensparkspace.com" },
 ];
 
 const Container = styled.div`
